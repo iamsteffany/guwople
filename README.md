@@ -17,6 +17,6 @@ After submitting a guess, the letters will turn gray, green, or yellow.
 
 ## Contributing
 
-Feel free to open an issue for any bugs or feature requests.
+Feel free to open an issue for any bugs or feature requests
 
 To contribute to the code, see [CONTRIBUTING.md](https://github.com/steffnay/guwople/blob/main/CONTRIBUTING.md)
